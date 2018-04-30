@@ -1,2 +1,2 @@
-# implicit-eular
-c++ method for explicit and implicit method for ODE.
+# неявный Эилер
+c++ solution for ODE, for a friend
